@@ -1,0 +1,12 @@
+{
+    "id": "2175",
+    "parent_exercise_id": "2169",
+    "name": "Kaise shuru karein?",
+    "slug": "if-else__if-statement-flowcharts/if-flowchart-question5",
+    "sequence_num": 1006,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"Ek flowchart banao jo check kare ki kya `44 + 200` `123` ke barabar hai ya nahi? \"}]",
+    "submission_type": "url",
+    "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/if-statement-flowcharts/if-flowchart-question5.md"
+}
